@@ -3,6 +3,7 @@
   <Name>AndroidStudio</Name>
   <Repository>jassycliq/android-studio-projector</Repository>
   <Registry>https://hub.docker.com/repository/docker/jassycliq/android-studio-projector</Registry>
+  <Beta>True</Beta>
   <Branch>
     <Tag>canary</Tag>
     <TagDescription>Most recent Android Studio Canary</TagDescription>
