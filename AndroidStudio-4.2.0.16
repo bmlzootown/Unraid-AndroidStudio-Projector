@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>AndroidStudio-4.2.0.16</Name>
-  <Description>JetBrain's Projector running Android Studio Canary 4.2.0.16 without any windowing system</Description>
   <Repository>jassycliq/android-studio-projector</Repository>
   <Registry>https://hub.docker.com/repository/docker/jassycliq/android-studio-projector</Registry>
   <Network>bridge</Network>
@@ -10,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support/>
   <Project/>
-  <Overview/>
+  <Overview>JetBrain's Projector running Android Studio Canary 4.2.0.16 without any windowing system</Overview>
   <Category>Productivity:</Category>
   <WebUI>http://[IP]:[PORT:8887]/?notSecureWarning=false</WebUI>
   <TemplateURL/>
