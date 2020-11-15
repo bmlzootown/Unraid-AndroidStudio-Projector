@@ -6,15 +6,7 @@
   <Beta>True</Beta>
   <Branch>
     <Tag>canary</Tag>
-    <TagDescription>Most recent Android Studio Canary</TagDescription>
-  </Branch>
-  <Branch>
-    <Tag>beta</Tag>
-    <TagDescription>Most recent Android Studio Beta</TagDescription>
-  </Branch>
-  <Branch>
-    <Tag>stable</Tag>
-    <TagDescription>Most recent Android Studio Stable</TagDescription>
+    <TagDescription>Most recent Android Studio Canary (currently only Canary works since Projector relies on JDK 11)</TagDescription>
   </Branch>
   <Network>bridge</Network>
   <MyIP/>
