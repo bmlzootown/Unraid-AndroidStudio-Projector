@@ -47,4 +47,7 @@
   <Labels/>
   <Config Name="Host Port 1" Target="8887" Default="" Mode="tcp" Description="Container Port: 8887" Type="Port" Display="always" Required="false" Mask="false">8887</Config>
   <Config Name="Host Path 1" Target="/home/projector-user" Default="" Mode="rw" Description="Container Path: /home/projector-user" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/android-studio</Config>
+  <Config Name="Host Key 1" Target="UMASK" Default="" Mode="" Description="Container Variable: UMASK" Type="Variable" Display="always" Required="false" Mask="false">000</Config>
+  <Config Name="Host Key 2" Target="PUID" Default="" Mode="" Description="Container Variable: PUID" Type="Variable" Display="always" Required="false" Mask="false">99</Config>
+  <Config Name="Host Key 3" Target="PGID" Default="" Mode="" Description="Container Variable: PGID" Type="Variable" Display="always" Required="false" Mask="false">100</Config>
 </Container>
