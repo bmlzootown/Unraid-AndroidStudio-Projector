@@ -12,7 +12,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/99122-support-jassycliq-android-studio-projector</Support>
   <Project/>
   <Overview>JetBrain's Projector running Android Studio without any windowing system</Overview>
   <Category>Productivity:</Category>
