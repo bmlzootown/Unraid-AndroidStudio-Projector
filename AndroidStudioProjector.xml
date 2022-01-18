@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>AndroidStudio</Name>
-  <Repository>jassycliq/android-studio-projector</Repository>
-  <Registry>https://hub.docker.com/repository/docker/jassycliq/android-studio-projector</Registry>
+  <Repository>bmlzootown/projector-android-studio</Repository>
+  <Registry>https://hub.docker.com/r/bmlzootown/projector-android-studio</Registry>
   <Beta>True</Beta>
   <Branch>
     <Tag>canary</Tag>
